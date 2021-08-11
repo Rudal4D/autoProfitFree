@@ -16,6 +16,10 @@ nano config.json
 
 Kemudian Save Klik CTRL + X + Y Enter
 
+START MINING
+
+python3 999dice.py
+
 Done!
 
 Happy mining!
