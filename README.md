@@ -21,3 +21,6 @@ Kemudian Save Klik CTRL + X + Y Enter
 python3 999dice.py
 
 🔥 Enjoy Profit! 🔥
+
+
+⭐⭐⭐⭐⭐ by christof
