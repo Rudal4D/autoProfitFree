@@ -1,14 +1,14 @@
-# SCRIPT AUTO PROFIT 999DICE
+# Script Auto Bet / Auto Profit 999dice
 
-INSTALL
+## ⭐ Install tool
 
 apt install git -y && apt-get update -y && apt-get upgrade -y && apt-get install python-pip -y && apt-get install python3-pip -y && pip3 install requests && pip3 install colorama && apt-get install nano
 
-CLONE GIT
+## ⭐ Clone this repo
 
 git clone https://github.com/Rudal4D/autoProfitFree.git
 
-LAST STEP
+## ⭐ Last Step
 
 Setting Username & Password
 
@@ -16,10 +16,8 @@ nano config.json
 
 Kemudian Save Klik CTRL + X + Y Enter
 
-START MINING
+## ⭐ Now, Start Mining
 
 python3 999dice.py
 
-Done!
-
-Happy mining!
+🔥 Enjoy Profit! 🔥
