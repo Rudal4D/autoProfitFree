@@ -23,4 +23,5 @@ python3 999dice.py
 🔥 Enjoy Profit! 🔥
 
 
-⭐⭐⭐⭐⭐ by christof
+⭐⭐⭐⭐⭐
+By Erick
